@@ -7,10 +7,10 @@ public class Pemilihan2Percobaan215 {
 
         System.out.print("Masukkan sudut1 : ");
         sudut1 = input15.nextFloat();
-         System.out.print("Masukkan sudut2 : ");
-         sudut2 = input15.nextFloat();
-         System.out.print("Masukkan sudut3 : ");
-         sudut3 = input15.nextFloat();
+        System.out.print("Masukkan sudut2 : ");
+        sudut2 = input15.nextFloat();
+        System.out.print("Masukkan sudut3 : ");
+        sudut3 = input15.nextFloat();
         totalSudut = sudut1 + sudut2 + sudut3;
 
         if (totalSudut == 180) {
